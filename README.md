@@ -1,0 +1,2 @@
+# Capstone-Magindra-cars
+Geolocation Based Customer Analysis: The idea is to explore how various factors like car make &amp; model, time and type of service etc. vary with location. Since the servicing industry is local in nature, this kind of an analysis could possibly render some really interesting business insights.  Furthermore, this analysis will enable us to formulate more concrete machine learning problems.  From the data at hand it is possible to extract insights about customer behaviour especially the following questions can be addressed
